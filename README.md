@@ -1,4 +1,4 @@
-Resumo do que apendi no Lab:
+Resumo do que aprendi no Lab:
 
 Tendo aprendido a criar uma conta gratuita no vídeo introdutório e usar os créditos de 30 dias, fiquei ciente das limitações dessa conta ao acessar certos recursos caros ou regiões específicas. 
 
